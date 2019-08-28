@@ -5,4 +5,5 @@ Essentially for resource sharing with team. To introduce them with blockchain co
 
 ## Note for team-mates:
 
-The contracts in the SampleContract directory are just comments, write your code using that boilerplate.
+The contracts in the Contracts directory are just comments, write your code using that boilerplate.
+Submit your code in the New "YOUR_NAME" directory, for further assessment.  
